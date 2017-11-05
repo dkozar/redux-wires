@@ -1,0 +1,26 @@
+{
+  "name": "redux-wires",
+  "version": "1.0.0",
+  "description": "Just some wires",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkozar/redux-wires.git"
+  },
+  "keywords": [
+    "Redux",
+    "React",
+    "ReactJS",
+    "wires",
+    "cables"
+  ],
+  "author": "Danko Kozar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkozar/redux-wires/issues"
+  },
+  "homepage": "https://github.com/dkozar/redux-wires#readme"
+}
